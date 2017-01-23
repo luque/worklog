@@ -18,4 +18,4 @@ visitScript: aScript
 	canvas newLine.
 	stream << '----'.
 	canvas newLine.
-	
+	canvas newLine.	
