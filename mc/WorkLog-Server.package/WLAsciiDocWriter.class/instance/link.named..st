@@ -1,4 +1,5 @@
 writing-text
 link: anUrl named: name
-	stream << anUrl
-		
+	stream 
+		<< '[' << name << ']'
+		<< '(' << anUrl << ')'
